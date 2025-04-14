@@ -12,6 +12,10 @@
   <a href="https://core-lab.weebly.com/people.html">
     <img src="https://img.shields.io/badge/My-CV-lightgreen?style=flat-square" />
   </a>
+  <a href="https://siddik95.github.io/">
+    <img src="https://img.shields.io/badge/Personal-Website-darkgreen?style=flat-square" />
+  </a>
+  
 </p>
 
 
