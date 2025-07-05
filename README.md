@@ -14,7 +14,7 @@
 <a href="https://core-lab.weebly.com/people.html">
   <img src="https://img.shields.io/badge/CORE-LAB-orange?style=flat-square" />
 </a>
-<a href="https://core-lab.weebly.com/people.html">
+<a href="https://drive.google.com/file/d/1t9gPiiKcvA7IwoHZ2WaGAzrtqKa_268g/view?usp=sharing">
   <img src="https://img.shields.io/badge/My-CV-cyan?style=flat-square" />
 </a>
 <a href="https://siddik95.github.io/">
